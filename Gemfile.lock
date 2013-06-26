@@ -15,6 +15,7 @@ GEM
     declarative_authorization (0.5.1)
     eventmachine (1.0.3)
     i18n (0.4.0)
+    iconv (1.0.3)
     mysql2 (0.3.11)
     pg (0.15.1)
     rack (1.0.1)
@@ -37,6 +38,7 @@ PLATFORMS
 DEPENDENCIES
   declarative_authorization (= 0.5.1)
   i18n (= 0.4.0)
+  iconv
   mysql2
   pg
   rack (~> 1.0.0)
