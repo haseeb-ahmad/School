@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
 
+gem 'rails', '2.3.5'
 gem 'declarative_authorization', '0.5.1'
 gem 'i18n', '0.4.0'
+gem 'rack' , '~> 1.0.0'
 
 # Gems used only for assets and not required
 # in production environments by default.
